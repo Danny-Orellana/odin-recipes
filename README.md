@@ -1,1 +1,1 @@
-# odin-recipes
+This is the first real coding project! I'll be able to feel comfortable cloning a repo locally. I'm still real excited to do this and I hope this starts to feel easier soon. 
